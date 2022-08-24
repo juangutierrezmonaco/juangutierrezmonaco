@@ -60,8 +60,9 @@ const aboutMe = {
 # :envelope: Contáctame
 <p align="center">
 <a href="https://www.linkedin.com/in/juangutierrezmonaco/"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Linkedin Juan Gutierrez" height="60" width="60"/></a>
-<a href="mailto:juan.monaco.gutierrez@gmail.com"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="Email Juan Gutierrez" height="60" width="40" /></a>
+<a href="mailto:juan.monaco.gutierrez@gmail.com"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg alt="Email Juan Gutierrez" height="60" width="60" /></a>
 </p>
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=juangutierrezmonaco&theme=buefy&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -73,3 +74,5 @@ const aboutMe = {
 
 ---
 [![](https://visitcount.itsvg.in/api?id=juangutierrezmonaco&icon=0&color=11)](https://visitcount.itsvg.in)
+
+<img height="300px" src="https://user-images.githubusercontent.com/104147035/186288937-1e2c85e1-56f7-4626-9741-5435b4b98ed6.gif" />
