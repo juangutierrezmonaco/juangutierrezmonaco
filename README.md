@@ -7,7 +7,7 @@ const aboutMe = {
    code: ['HTML', 'CSS', 'Javascript', 'C', 'C++', 'Java'],
    technologies: {
       frontEnd: {
-         js: ['React'],
+         js: ['Vanilla', 'React'],
          css: ['Bootstrap', 'Tailwind CSS']
       },
       backend: {
