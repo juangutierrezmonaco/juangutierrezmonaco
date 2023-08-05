@@ -57,6 +57,22 @@ const aboutMe = {
 ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) 
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+# :test_tube: Algunos de mis proyectos
+-  **CINEMAFLEX**: Sistema para comprar entradas de cine.
+   - [Repo](https://github.com/juangutierrezmonaco/cinema-flex)
+   - [Deploy](cinemaflex.vercel.app/)
+
+-  **ORA ORA COSTUME**: E-commerce de cosplays.
+   - [Repo](https://github.com/juangutierrezmonaco/ORA-ORA-COSTUME)
+   - [Deploy](https://oraoracostume.vercel.app/)
+ 
+- **Juego del ahorcado**: Clásico juego del ahorcado con divertida UI con múltiples categorías y palabras personalizadas.
+   - [Repo](https://github.com/juangutierrezmonaco/Challenge-2-AHORCADO-Oracle-ONE) 
+   - [Deploy](https://juangutierrezmonaco.github.io/Challenge-2-AHORCADO-Oracle-ONE/)
+- **ALKYBANK**: Wallet desarrollada en equipo durante la aceleración de Alkemy en noviembre de 2022.
+   - [Repo](https://github.com/juangutierrezmonaco/alkemy-wallet) 
+   - [Deploy](https://alkemy-wallet.vercel.app/)
+
 # :envelope: Contáctame
 <p align="center">
 <a href="https://www.linkedin.com/in/juangutierrezmonaco/"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="Linkedin Juan Gutierrez" height="60" width="60"/></a>
